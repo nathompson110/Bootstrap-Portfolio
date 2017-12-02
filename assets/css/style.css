@@ -2,12 +2,15 @@
 
 body {
   padding-top: 54px;
+  /*background-image: url(../images/chicago.jpg)
+  */
 }
 
 
 #profile-image {
 
   float: left;
+  border-radius: 50%;
 
 
 width:100%;
