@@ -73,13 +73,13 @@ p {
 
 
 .projects {
-  width: 60%;
+  width: 100%;
   text-align: center;
 
 }
 
 h1 {
-  text-align: center
+  text-align: center;
 }
 
 
@@ -90,6 +90,24 @@ h1 {
 
 .work {
   text-align: center;
-  width: 75%;
+  width: 100%;
+  opacity: 0.8;
+  
 
 }
+#project_container {
+  background-color: black;
+  width: 70%;
+ text-align: center;
+
+}
+.main-section {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  background-color: gray;
+  padding: 30px;
+  z-index: 2;
+  color: #fff;
+} 
