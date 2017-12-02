@@ -34,23 +34,15 @@ p {
 }
 #connect-with-me-area {
   width: 100%;
-
-  /* Box-model */
   padding: 30px 30px 43px;
-
-  /* Positioning */
   margin-top: 32px;
-
-  /* Visual */
   background-color: #fff;
 }
 
 .connect-with-me-header {
-  /* Positioning */
+
   margin-bottom: 15px;
   font-family: Georgia, Times, "Times New Roman", serif;
-
-  /* Typography */
   font-size: 25px;
   font-weight: bold;
   color: grey;
@@ -58,16 +50,12 @@ p {
 
 .social {
   width: 55px;
-
-  /* Box-model */
   height: 55px;
 }
 
 #images {
-  /* Box-model */
-  padding-top: 15px;
 
-  /* Typography */
+  padding-top: 15px;
   text-align: center;
 }
 
@@ -91,7 +79,7 @@ h1 {
 .work {
   text-align: center;
   width: 100%;
-  opacity: 0.8;
+  /*opacity: 0.8;*/
   
 
 }
